@@ -5,4 +5,10 @@ for (let index = 0; index < list.length; index++){
         sheep ++;
     }
 }
+if(sheep > 0) {
+    console.log("There are " + sheep + "sheep in total");
+}
+if (sheep === 0) {
+    console.log("Ups!!! Wolfs eaten Sheeps");
+
 }
