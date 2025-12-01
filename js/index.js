@@ -14,3 +14,4 @@ if (sheep === 0) {
 }
 countSheep([ true, true, true, false, true, true, true, true, true, false, true, false, true, false, false, true, true, true, true, true, false, false, true, true ]);
 countSheep( [ false, false, false ])
+countSheep([])
